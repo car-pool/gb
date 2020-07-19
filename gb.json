@@ -1,1 +1,6 @@
-test
+{
+  "name": "GBTESTPOOL",
+  "ticker": "GBTP",
+  "description": "GB Test Cardano Pool",
+  "homepage": "https://github.com/car-pool/gb/tree/master"
+}
