@@ -1,6 +1,6 @@
 {
-  "name": "GBTESTPOOL",
-  "ticker": "GBTP",
-  "description": "GB Test Pool",
+  "name": "Lead_Pool",
+  "ticker": "LEAD",
+  "description": "Lead Pool",
   "homepage": "https://github.com/car-pool/gb"
 }
